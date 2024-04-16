@@ -11,27 +11,27 @@ Here are some ideas to get you started: -->
 
  <br/>
 
-## 👨🏻‍💻 About Me:
+##  About Me:
 
 <img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-- 🙋‍♂️ All about me is at **[My Website](https://portfolio-24f21.web.app/)**
+- I’m currently working on `Something Intresting`.
 
-- 🔭 I’m currently working on `Something Intresting`.
-
-- 🌱 I’m currently learning `MERN Stack`
+- 🌱 I’m currently learning `Music and Sport`
 
 - 👯 I’m looking to collaborate for `Dev Projects`
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- I’m looking for help with `Competitive Programming`
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- 💬 Ask me about anything, Except Love :sweat_smile:
 
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
-- ⚡ Fun fact: I waste most of my time playing games
+- ⚡ Fun fact: I waste most of my time playing games and developing games.
 
-## 🛠️ Technologies and Tools I use:
+  -If you contact me, I will show you excited games that I developed.
+
+## 🛠Technologies and Tools I use:
 
 <p>
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
@@ -47,26 +47,21 @@ Here are some ideas to get you started: -->
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
 <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
 <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
  <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
 </p>
 
 ## ❤️ Let's get connected:
 
-<p><a href="https://portfolio-24f21.web.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Michael.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/michael-song-639178273/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<p><a href="" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Midascode.info-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a> <a href="https://twitter.com/soumyajit4419" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/michael-song-639178273/" target="_blank"><img alt="LinkedIn" href="https://www.linkedin.com/in/valik-georgiychyk-814618304/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/soumyajit4419" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
-## 🤝 Support Me:
 
-<a href="https://www.buymeacoffee.com/lioncoder8" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 ## 📊 My GitHub Data:
 
