@@ -66,6 +66,6 @@ Here are some ideas to get you started: -->
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=aubreeignat&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aubreeignat&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Valik-Georgiychyk&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Valik-Georgiychy&" alt="soumyajit" />
 </div>
